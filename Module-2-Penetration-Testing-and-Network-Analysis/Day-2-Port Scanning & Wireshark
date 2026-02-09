@@ -1,3 +1,45 @@
 Markdown
 
-# Day 2: Port Scanning & Wireshark
+# Day 2: Port Scanning, Network Analysis & Wireshark
+
+## 🔍 Penetration Testing Tools
+Penetration testing tools are grouped by functionality:
+
+- Network scanning tools
+- Exploitation tools
+- Web application testing tools
+- Wireless network testing tools
+- Password cracking tools
+- Traffic analysis tools
+- Social engineering tools
+
+## 🚪 Port Scanning
+Port scanning is used to identify open ports and services on a target system.
+
+### Types of Port Scans
+- Ping scan
+- TCP SYN (half-open) scan
+- TCP connect scan
+- UDP scan
+- Stealth/quiet scan
+
+## 🌐 Network Protocol Analyzers
+Network protocol analyzers capture and inspect network traffic to:
+
+- Detect anomalies
+- Troubleshoot performance issues
+- Investigate security incidents
+
+## 🦈 Wireshark
+Wireshark is a powerful network protocol analyzer used for deep packet inspection.
+
+### PCAP File Formats
+- PCAP
+- libpcap
+- pcapng
+- Npcap
+
+Each format serves different capture and analysis scenarios.
+
+## 🧠 Key Learning
+Understanding network traffic behavior is critical for identifying malicious activity and securing systems.
